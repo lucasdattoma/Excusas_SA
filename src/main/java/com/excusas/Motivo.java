@@ -1,0 +1,10 @@
+package com.excusas;
+
+public enum Motivo {
+    QUEDARSE_DORMIDO,
+    PERDI_TRANSPORTE,
+    PERDIDA_SUMINISTRO,
+    CUIDADO_FAMILIAR,
+    IRRELEVANTE,
+    INVEROSIMIL
+}
